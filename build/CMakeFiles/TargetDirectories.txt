@@ -1,0 +1,3 @@
+/Users/apple/Documents/OG/Matching Engine/build/CMakeFiles/crypto_engine.dir
+/Users/apple/Documents/OG/Matching Engine/build/CMakeFiles/edit_cache.dir
+/Users/apple/Documents/OG/Matching Engine/build/CMakeFiles/rebuild_cache.dir

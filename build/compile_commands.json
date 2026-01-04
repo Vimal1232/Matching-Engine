@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/apple/Documents/OG/Matching Engine/build",
+  "command": "/usr/bin/clang++ -I\"/Users/apple/Documents/OG/Matching Engine/include\" -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/crypto_engine.dir/src/main.cpp.o -c \"/Users/apple/Documents/OG/Matching Engine/src/main.cpp\"",
+  "file": "/Users/apple/Documents/OG/Matching Engine/src/main.cpp",
+  "output": "CMakeFiles/crypto_engine.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/apple/Documents/OG/Matching Engine/build",
+  "command": "/usr/bin/clang++ -I\"/Users/apple/Documents/OG/Matching Engine/include\" -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/crypto_engine.dir/src/matcher.cpp.o -c \"/Users/apple/Documents/OG/Matching Engine/src/matcher.cpp\"",
+  "file": "/Users/apple/Documents/OG/Matching Engine/src/matcher.cpp",
+  "output": "CMakeFiles/crypto_engine.dir/src/matcher.cpp.o"
+},
+{
+  "directory": "/Users/apple/Documents/OG/Matching Engine/build",
+  "command": "/usr/bin/clang++ -I\"/Users/apple/Documents/OG/Matching Engine/include\" -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/crypto_engine.dir/src/order_book.cpp.o -c \"/Users/apple/Documents/OG/Matching Engine/src/order_book.cpp\"",
+  "file": "/Users/apple/Documents/OG/Matching Engine/src/order_book.cpp",
+  "output": "CMakeFiles/crypto_engine.dir/src/order_book.cpp.o"
+}
+]

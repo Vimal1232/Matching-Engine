@@ -1,0 +1,6 @@
+# ninja log v6
+16	30923	1766075324712710688	CMakeFiles/crypto_engine.dir/src/order_book.cpp.o	d12cebdbebf3e378
+30923	31840	1766075355619542725	crypto_engine	a191625b5e7de103
+15	28210	1766075324711042422	CMakeFiles/crypto_engine.dir/src/matcher.cpp.o	f14f097964dd1f2b
+13	28245	1766075324709121592	CMakeFiles/crypto_engine.dir/src/main.cpp.o	26f0e83934e9bbf9
+1425	8238	1767421250870333027	build.ninja	68003eb909f5c235

@@ -1,6 +1,6 @@
 #ifndef MATCHER_H
 #define MATCHER_H
 
-void matcher();
+double matcher();
 
 #endif
